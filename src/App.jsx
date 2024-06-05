@@ -7,7 +7,7 @@ function App() {
     <>
       
       <p className="read-the-docs">
-        Click to learn more
+        hey
       </p>
     </>
   )
